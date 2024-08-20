@@ -15,7 +15,9 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 </p>
 
 <p align="center">
+  
   ![data](https://github.com/user-attachments/assets/f71f80f1-9480-43fc-b8f4-1bdcc59c7ef4)
+
 </p>
 
 ### Descriptive Statistics
@@ -25,7 +27,9 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 </p>
 
 <p align="center">
-  <img src="data deskriptif numerikal.png" alt="DataDeskritiveNumerik">
+  
+  ![data deskriptif numerikal](https://github.com/user-attachments/assets/84bb432c-5fa7-4590-a763-16261fef5cf3)
+
 </p>
 
 <br>
@@ -35,7 +39,9 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 </p> 
 
 <p align="center">
-  <img src="data deskriptif kategori.png" alt="DataDeskritiveKategori">
+  
+  ![data deskriptif kategori](https://github.com/user-attachments/assets/e4eecdf1-5178-4936-b886-3bd32aafbaba)
+
 </p>
 
 <br>
@@ -58,13 +64,13 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 ### Univariate Analisis : 
   
 <p align="center">
-  <img src="displot numerikal.png" alt="DataDeskritiveKategori">
-
+  
+![displot numerikal](https://github.com/user-attachments/assets/3fa855e3-6254-4582-be90-3e7c896d4318)
   Gambar 1 – Displot Numerikal 
 </p>
 <br>
 <p align="center">
-  <img src="violin numerikal.png" alt="DataDeskritiveKategori">
+  ![violin numerikal](https://github.com/user-attachments/assets/ebfce3e3-08db-4ae0-b591-74176505d102)
   Gambar 2 – Violin Numerikal 
 </p>
 <br>

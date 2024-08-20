@@ -40,7 +40,7 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 
 <p align="center">
   
-  ![violin numerikal](https://github.com/user-attachments/assets/d19b9eec-4144-4242-be8a-9ad64e34d322)
+  ![data deskriptif kategori](https://github.com/user-attachments/assets/a60a7f1b-c3f3-46b4-8617-e7c69ad38511)
 
 </p>
 
@@ -70,6 +70,7 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 </p>
 <br>
 <p align="center">
+  
   ![violin numerikal](https://github.com/user-attachments/assets/ebfce3e3-08db-4ae0-b591-74176505d102)
   Gambar 2 – Violin Numerikal 
 </p>

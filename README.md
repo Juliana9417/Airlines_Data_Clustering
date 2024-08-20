@@ -267,6 +267,7 @@ Berdasarkan hasil PCA : <br>
 
 ### **Business Insight and Recomendations:**
 <br>
+
 1. **Cluster 0 (_Inexperienced Flyers_):**
    - Pelanggan dalam cluster ini adalah anggota baru dari program maskapai.
    - Mereka belum melakukan banyak penerbangan, meskipun interval rata-rata antar penerbangan mereka singkat.

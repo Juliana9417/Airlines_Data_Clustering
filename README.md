@@ -15,7 +15,9 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 </p>
 
 <p align="center">
-  <img src="data.png" alt="InformasiData">
+  
+ ![data](https://github.com/user-attachments/assets/f71f80f1-9480-43fc-b8f4-1bdcc59c7ef4)
+ 
 </p>
 
 ### Descriptive Statistics

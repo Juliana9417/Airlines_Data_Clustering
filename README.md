@@ -132,7 +132,6 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 1. Missing Value
    
   <p align="center">
-    
     ![missing value](https://github.com/user-attachments/assets/f40bb826-6ffe-42fd-87f9-5153e41d2240)
 
    </p>
@@ -144,7 +143,6 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 2. Feature Engineering
        
     <p align="center">
-    
     ![feature engineering](https://github.com/user-attachments/assets/764b2882-af4f-4556-a77b-0d9142ba3b42)
 
      </p>

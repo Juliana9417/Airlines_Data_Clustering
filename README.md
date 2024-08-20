@@ -83,14 +83,16 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 
 </p>
 <p align="center">
-   <img src="work kategori.png" alt="DataDeskritiveKategori">
+  
+  ![work kategori](https://github.com/user-attachments/assets/3c0a7abe-196e-4ab3-91ce-99f294bc3ec9)
 
   Gambar 3 - Region Work
 </p>
 <br>
 <p align="center">
-  <img src="flight date.png" alt="DataDeskritiveKategori">
-    
+  
+  ![flight date](https://github.com/user-attachments/assets/7d55735d-d97a-4758-b9e2-8b4ebc826202)
+
   Gambar 4 - Flight Date 
 </p>
 <br>
@@ -104,8 +106,9 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 
 ### Multivariate Analisis : 
 <p align="center">
-  <img src="multivariate.png" alt="DataDeskritiveKategori">
- 
+  
+ ![multivariate](https://github.com/user-attachments/assets/52491c66-1a52-4ccf-a623-705c26bf9794)
+
   Gambar 5 - Multivariate Numerikal
 </p>
 <br>
@@ -129,7 +132,9 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 1. Missing Value
    
   <p align="center">
-  <img src="missing value.png" alt="DataDeskritiveKategori">
+    
+    ![missing value](https://github.com/user-attachments/assets/f40bb826-6ffe-42fd-87f9-5153e41d2240)
+
    </p>
    <p align="center">
      Gambar 6- Handling missing values <br>
@@ -139,8 +144,10 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 2. Feature Engineering
        
     <p align="center">
-  <img src="feature engineering.png" alt="DataDeskritiveKategori">
-   </p>
+    
+    ![feature engineering](https://github.com/user-attachments/assets/764b2882-af4f-4556-a77b-0d9142ba3b42)
+
+     </p>
    <p align="center">
      Gambar 7 - Feature Engineering <br>
    </p>
@@ -162,7 +169,9 @@ d. Fitur "SEG_KM_SUM" merepresentasikan jarak tempuh: Jumlah jarak yang ditempuh
     Fitur 'FLIGHT_COUNT', 'SEG_KM_SUM', dan 'AVG_INTERVAL' terlihat memiliki outliers akan ditangani dengan metode IQR. 
 <br>
  <p align="center">
-  <img src="handling outlier.png" alt="DataDeskritiveKategori">
+   
+   ![handling outlier](https://github.com/user-attachments/assets/ec5f5bf5-c665-4939-94eb-07486bd73d74)
+
    </p>
    <p align="center">
      Gambar 8 - Handling Outlier <br>
@@ -173,7 +182,9 @@ d. Fitur "SEG_KM_SUM" merepresentasikan jarak tempuh: Jumlah jarak yang ditempuh
 
   <p> 
   <p align="center">
-  <img src="standardization.png" alt="DataDeskritiveKategori">
+    
+    ![standardization](https://github.com/user-attachments/assets/713b4855-bdcd-4a9d-9faa-885d1ab55bca)
+
    </p>
    <p align="center">
      Gambar 9 - Handling Outlier <br>
@@ -188,8 +199,10 @@ d. Fitur "SEG_KM_SUM" merepresentasikan jarak tempuh: Jumlah jarak yang ditempuh
 
   <p> 
   <p align="center">
-  <img src="Elbow.png" alt="DataDeskritiveKategori">
-   </p>
+    
+    ![Elbow](https://github.com/user-attachments/assets/242b2bfa-58be-4985-a53c-d9c8cd2bf409)
+
+     </p>
    <p align="center">
      Gambar 10 - Elbow Method <br>
    </p>
@@ -202,7 +215,9 @@ d. Fitur "SEG_KM_SUM" merepresentasikan jarak tempuh: Jumlah jarak yang ditempuh
 
   <p> 
   <p align="center">
-  <img src="kmeans.png" alt="DataDeskritiveKategori">
+    
+    ![kmeans](https://github.com/user-attachments/assets/d76e4308-c6e1-40d6-ab6b-836725833c65)
+
    </p>
    <p align="center">
      Gambar 11 - Kmeans Clustering
@@ -214,7 +229,9 @@ d. Fitur "SEG_KM_SUM" merepresentasikan jarak tempuh: Jumlah jarak yang ditempuh
 
   <p> 
   <p align="center">
-  <img src="pca.png" alt="DataDeskritiveKategori">
+    
+    ![pca](https://github.com/user-attachments/assets/01a42676-37ee-4875-9507-c44622f8f9e7)
+
    </p>
    <p align="center">
      Gambar 12 - Principal Component Analysis (PCA)
@@ -230,7 +247,9 @@ Berdasarkan hasil PCA : <br>
 ### **Customer Count and Observe the Value of Feature in Cluster**
     
   <p align="center">
-  <img src="total customer.png" alt="DataDeskritiveKategori">
+    
+    ![total customer](https://github.com/user-attachments/assets/9e461e50-9fb1-41b5-b461-1eb46bf7c1c7)
+
    </p>
    <p align="center">
      Gambar 13 - Total Customer per Cluster
@@ -238,7 +257,9 @@ Berdasarkan hasil PCA : <br>
    </p>
 <br>
  <p align="center">
-  <img src="clustering.png" alt="DataDeskritiveKategori">
+   
+   ![clustering](https://github.com/user-attachments/assets/e4a762f0-b60a-4565-8729-0cda0a609688)
+
    </p>
    <p align="center">
      Gambar 

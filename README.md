@@ -143,8 +143,7 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 2. Feature Engineering
        
     <p align="center">
-    ![feature engineering](https://github.com/user-attachments/assets/764b2882-af4f-4556-a77b-0d9142ba3b42)
-
+  ![feature engineering](https://github.com/user-attachments/assets/764b2882-af4f-4556-a77b-0d9142ba3b42)
      </p>
    <p align="center">
      Gambar 7 - Feature Engineering <br>
@@ -163,12 +162,12 @@ d. Fitur "SEG_KM_SUM" merepresentasikan jarak tempuh: Jumlah jarak yang ditempuh
 <br>
 <br>
 4. Handling Outliers <br>
-
-    Fitur 'FLIGHT_COUNT', 'SEG_KM_SUM', dan 'AVG_INTERVAL' terlihat memiliki outliers akan ditangani dengan metode IQR. 
+Fitur 'FLIGHT_COUNT', 'SEG_KM_SUM', dan 'AVG_INTERVAL' terlihat memiliki outliers akan ditangani dengan metode IQR. 
 <br>
+
  <p align="center">
    
-   ![handling outlier](https://github.com/user-attachments/assets/ec5f5bf5-c665-4939-94eb-07486bd73d74)
+  ![handling outlier](https://github.com/user-attachments/assets/ec5f5bf5-c665-4939-94eb-07486bd73d74)
 
    </p>
    <p align="center">
@@ -181,7 +180,7 @@ d. Fitur "SEG_KM_SUM" merepresentasikan jarak tempuh: Jumlah jarak yang ditempuh
   <p> 
   <p align="center">
     
-    ![standardization](https://github.com/user-attachments/assets/713b4855-bdcd-4a9d-9faa-885d1ab55bca)
+  ![standardization](https://github.com/user-attachments/assets/713b4855-bdcd-4a9d-9faa-885d1ab55bca)
 
    </p>
    <p align="center">
@@ -198,7 +197,7 @@ d. Fitur "SEG_KM_SUM" merepresentasikan jarak tempuh: Jumlah jarak yang ditempuh
   <p> 
   <p align="center">
     
-    ![Elbow](https://github.com/user-attachments/assets/242b2bfa-58be-4985-a53c-d9c8cd2bf409)
+  ![Elbow](https://github.com/user-attachments/assets/242b2bfa-58be-4985-a53c-d9c8cd2bf409)
 
      </p>
    <p align="center">
@@ -214,7 +213,7 @@ d. Fitur "SEG_KM_SUM" merepresentasikan jarak tempuh: Jumlah jarak yang ditempuh
   <p> 
   <p align="center">
     
-    ![kmeans](https://github.com/user-attachments/assets/d76e4308-c6e1-40d6-ab6b-836725833c65)
+  ![kmeans](https://github.com/user-attachments/assets/d76e4308-c6e1-40d6-ab6b-836725833c65)
 
    </p>
    <p align="center">
@@ -228,7 +227,7 @@ d. Fitur "SEG_KM_SUM" merepresentasikan jarak tempuh: Jumlah jarak yang ditempuh
   <p> 
   <p align="center">
     
-    ![pca](https://github.com/user-attachments/assets/01a42676-37ee-4875-9507-c44622f8f9e7)
+  ![pca](https://github.com/user-attachments/assets/01a42676-37ee-4875-9507-c44622f8f9e7)
 
    </p>
    <p align="center">
@@ -246,7 +245,7 @@ Berdasarkan hasil PCA : <br>
     
   <p align="center">
     
-    ![total customer](https://github.com/user-attachments/assets/9e461e50-9fb1-41b5-b461-1eb46bf7c1c7)
+  ![total customer](https://github.com/user-attachments/assets/9e461e50-9fb1-41b5-b461-1eb46bf7c1c7)
 
    </p>
    <p align="center">
@@ -256,7 +255,7 @@ Berdasarkan hasil PCA : <br>
 <br>
  <p align="center">
    
-   ![clustering](https://github.com/user-attachments/assets/e4a762f0-b60a-4565-8729-0cda0a609688)
+  ![clustering](https://github.com/user-attachments/assets/e4a762f0-b60a-4565-8729-0cda0a609688)
 
    </p>
    <p align="center">

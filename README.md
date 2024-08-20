@@ -132,8 +132,8 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 1. Missing Value
    
   <p align="center">
-    ![missing value](https://github.com/user-attachments/assets/f40bb826-6ffe-42fd-87f9-5153e41d2240)
-
+    
+  ![missing value](https://github.com/user-attachments/assets/f40bb826-6ffe-42fd-87f9-5153e41d2240)
    </p>
    <p align="center">
      Gambar 6- Handling missing values <br>

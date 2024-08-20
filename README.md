@@ -142,7 +142,8 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 <br>
 2. Feature Engineering
        
-    <p align="center">
+  <p align="center">
+    
   ![feature engineering](https://github.com/user-attachments/assets/764b2882-af4f-4556-a77b-0d9142ba3b42)
      </p>
    <p align="center">
@@ -199,7 +200,7 @@ Fitur 'FLIGHT_COUNT', 'SEG_KM_SUM', dan 'AVG_INTERVAL' terlihat memiliki outlier
     
   ![Elbow](https://github.com/user-attachments/assets/242b2bfa-58be-4985-a53c-d9c8cd2bf409)
 
-     </p>
+  </p>
    <p align="center">
      Gambar 10 - Elbow Method <br>
    </p>

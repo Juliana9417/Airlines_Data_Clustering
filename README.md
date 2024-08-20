@@ -40,7 +40,7 @@ Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakterist
 
 <p align="center">
   
-  ![data deskriptif kategori](https://github.com/user-attachments/assets/e4eecdf1-5178-4936-b886-3bd32aafbaba)
+  ![violin numerikal](https://github.com/user-attachments/assets/d19b9eec-4144-4242-be8a-9ad64e34d322)
 
 </p>
 

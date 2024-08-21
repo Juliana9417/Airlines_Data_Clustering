@@ -2,7 +2,7 @@
 #  **Airline Customer Value Analysis Case** 
 ---
 ## 📂 **Stage 0 : Problem Statement**
-Sebuah perusahaan penerbangan sedang berupaya untuk mengidentifikasi karakteristik pelanggan melalui analisis dataset penerbangan yang komprehensif. Dari hasil analisis ini, perusahaan akan melakukan pengelolaan dan segmentasi pelanggan yang lebih efektif. Dengan segmentasi ini, perusahaan dapat memberikan layanan dan penawaran yang sesuai dengan masing-masing segmen pelanggan, guna mengoptimalkan bisnis penerbangan dan meningkatkan kepuasan pelanggan secara keseluruhan
+An airline company is striving to identify customer characteristics through a comprehensive analysis of flight data. Based on the results of this analysis, the company will manage and segment customers more effectively. Through this segmentation, the company can provide services and offers tailored to each customer segment, with the goal of optimizing the airline business and enhancing overall customer satisfaction. 
 
 <br>
 
